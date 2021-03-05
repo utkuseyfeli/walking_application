@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1ec07dd-8f77-43e6-9aef-6b7c30b38046" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fxM2OWFjQPU3q7jZ52cRDeG68X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Suggestions" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Utku\Documents\flutterProjects\walking_app\lib\screens\home" />
+      <recent name="C:\Users\Utku\Documents\flutterProjects\walking_app\lib\screens\authanticate" />
+      <recent name="C:\Users\Utku\Documents\flutterProjects\walking_app\android\app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1ec07dd-8f77-43e6-9aef-6b7c30b38046" name="Default Changelist" comment="" />
+      <created>1597155082611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597155082611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="515" y="351" key="#Notifications" timestamp="1597489788985">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="515" y="351" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1597489788985" />
+    <state x="288" y="435" key="#PSD" timestamp="1598010576496">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="288" y="435" key="#PSD/0.0.2560.1400@0.0.2560.1400" timestamp="1598010576496" />
+    <state x="618" y="409" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1597331267789">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="618" y="409" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1597331267789" />
+    <state x="671" y="436" key="FileChooserDialogImpl" timestamp="1597439548688">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="671" y="436" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1597439548688" />
+    <state width="1444" height="265" key="GridCell.Tab.0.bottom" timestamp="1598087585566">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1444" height="265" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1598087585566" />
+    <state width="1444" height="265" key="GridCell.Tab.0.center" timestamp="1598087585566">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1444" height="265" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1598087585566" />
+    <state width="1444" height="265" key="GridCell.Tab.0.left" timestamp="1598087585566">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1444" height="265" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1598087585566" />
+    <state width="1444" height="265" key="GridCell.Tab.0.right" timestamp="1598087585566">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1444" height="265" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1598087585566" />
+    <state x="395" y="273" width="1141" height="883" key="SettingsEditor" timestamp="1598038770042">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="395" y="273" width="1141" height="883" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1598038770042" />
+    <state x="178" y="196" width="1426" height="970" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1598086829358">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="178" y="196" width="1426" height="970" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598086829358" />
+    <state x="634" y="505" key="com.intellij.ide.util.TipDialog" timestamp="1598084027925">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="634" y="505" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1598084027925" />
+  </component>
+</project>

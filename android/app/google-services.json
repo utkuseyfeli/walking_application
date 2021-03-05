@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "268470340323",
+    "firebase_url": "https://walking-app-5b140.firebaseio.com",
+    "project_id": "walking-app-5b140",
+    "storage_bucket": "walking-app-5b140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268470340323:android:f553374e2a97ef1e3553d6",
+        "android_client_info": {
+          "package_name": "utkuseyfeli.walking_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268470340323-v558e9uh75q2ac1djcoc3df1ab65ethq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb_oVT603OnGZ_4upcUEKxqy9ZZwafZY0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268470340323-v558e9uh75q2ac1djcoc3df1ab65ethq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
